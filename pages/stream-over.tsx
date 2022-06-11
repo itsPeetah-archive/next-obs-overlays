@@ -15,7 +15,7 @@ const StreamOver: NextPage = () => {
         src="/images/background/celeste_farewell.png"
         layout="fill"
       />
-      <h1 className="md:text-xl lg:text-3xl font-extralight">
+      <h1 className="md:text-2xl lg:text-4xl font-extralight">
         stream ending soon...
       </h1>
       <h1 className="md:text-7xl lg:text-9xl animate-bounce-slow font-extralight italic mb-20 mt-12">
