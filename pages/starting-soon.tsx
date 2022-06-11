@@ -15,13 +15,13 @@ const StartingSoon: NextPage = () => {
         src="/images/background/celeste_farewell.png"
         layout="fill"
       />
-      <h1 className="md:text-xl lg:text-3xl font-thin">
+      <h1 className="md:text-xl lg:text-3xl font-extralight">
         thank you for tuning in
       </h1>
-      <h1 className="md:text-7xl lg:text-9xl animate-bounce-slow font-thin italic mb-20 mt-12">
+      <h1 className="md:text-7xl lg:text-9xl animate-bounce-slow font-extralight italic mb-20 mt-12">
         starting soon
       </h1>
-      <h1 className="md:text-2xl lg:text-4xl animate-pulse-slow font-thin">
+      <h1 className="md:text-2xl lg:text-4xl animate-pulse-slow font-extralight">
         grab a snack and enjoy
       </h1>
     </div>
