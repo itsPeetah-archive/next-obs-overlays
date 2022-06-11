@@ -18,7 +18,7 @@ const StreamOver: NextPage = () => {
       <h1 className="md:text-xl lg:text-3xl font-extralight">
         stream ending soon...
       </h1>
-      <h1 className="md:text-6xl lg:text-8xl animate-bounce-slow font-extralight italic mb-20 mt-12">
+      <h1 className="md:text-7xl lg:text-9xl animate-bounce-slow font-extralight italic mb-20 mt-12">
         thank you for watching
       </h1>
     </div>
